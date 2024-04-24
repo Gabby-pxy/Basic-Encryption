@@ -1,0 +1,24 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore dependencies
+/node_modules
+/bower_components
+
+# Ignore logs and temporary files
+/logs
+/tmp
+
+# Ignore IDE and editor files
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Ignore environment-specific files
+.env
+# macOS system files
+.DS_Store
