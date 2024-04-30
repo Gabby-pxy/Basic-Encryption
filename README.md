@@ -1,6 +1,6 @@
 # Basic-Encryption
 This code does basic encryption and decryption for multiple algorithms (XOR, One Time Pad, Ceaser Cipher)
-Functionalities include:
+Functionalities include:  
       - Encryption  
       - Decyption  
       - Custom Key  
