@@ -10,4 +10,7 @@ Functionalities include:
 ## Library Required
 This code requires **Tkinter** (a Python GUI Library)
 
+Run the Encrypt_Decrypt class to start the application.
+
+
 
